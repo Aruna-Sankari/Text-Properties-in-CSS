@@ -1,0 +1,30 @@
+.th3
+{
+font-family:arial;
+font-size:18px;
+color:navy;
+background-color:rgba(89,120,234,0.3);
+}
+.tb3
+{
+	font-family:Cambria;
+	text-align:center;
+	font-size:17px;
+	color:brown;
+	background-color:pink;
+}
+.tf3
+{
+	font-family:Calibri;
+	text-align:center;
+	font-size:17px;
+	color:red;
+	background-color:lightcyan;
+}
+tr:hover
+{
+	background-color:lightgrey;
+	color:black;
+	font-size:20px;
+}
+	
